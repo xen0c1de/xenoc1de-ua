@@ -6,10 +6,10 @@
    "version": "1.0.0",
    "minimumCoreVersion": "0.6.2",
    "compatibleCoreVersion": "0.6.5",
-   "url": "",
-   "download": "",
+   "url": "https://github.com/xen0c1de/xenoc1de-ua/tree/master/UA",
+   "download": "https://github.com/xen0c1de/xenoc1de-ua/archive/master.zip",
    "system": "dnd5e",
-   "manifest": "",
+   "manifest": "https://raw.githubusercontent.com/xen0c1de/xenoc1de-ua/master/UA/module.json",
    "readme": "",
    "changelog": "",
    "packs": [
