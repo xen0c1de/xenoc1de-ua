@@ -3,7 +3,7 @@
    "title": "Unearthed Arcana Content",
    "description": "A module that adds unearthed arcana content",
    "author": "Xen0c1de",
-   "version": "1.0.2",
+   "version": "1.1.0",
    "minimumCoreVersion": "0.6.2",
    "compatibleCoreVersion": "0.6.6",
    "url": "https://github.com/xen0c1de/xenoc1de-ua/tree/master/UA",
@@ -15,16 +15,23 @@
    "packs": [
       {
          "name": "classes",
-         "label": "Classes",
+         "label": "Classes (UA)",
          "system": "dnd5e",
          "path": "packs/classes.db",
          "entity": "Item"
       },
       {
          "name": "class-features",
-         "label": "Class Features",
+         "label": "Class Features (UA)",
          "system": "dnd5e",
          "path": "packs/classfeatures.db",
+         "entity": "Item"
+      },
+      {
+         "name": "races",
+         "label": "Races (UA)",
+         "system": "dnd5e",
+         "path": "packs/races.db",
          "entity": "Item"
       }
    ]
