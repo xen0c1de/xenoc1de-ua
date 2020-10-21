@@ -12,7 +12,7 @@
    "manifest": "https://raw.githubusercontent.com/xen0c1de/xenoc1de-ua/master/UA/module.json",
    "readme": "",
    "changelog": "",
-   "packs":[
+   "packs": [
       {
          "name": "classes",
          "label": "Classes",
