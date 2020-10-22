@@ -5,7 +5,7 @@
    "author": "Xen0c1de",
    "version": "1.1.2",
    "minimumCoreVersion": "0.6.2",
-   "compatibleCoreVersion": "0.6.6",
+   "compatibleCoreVersion": "0.7.5",
    "url": "https://github.com/xen0c1de/xenoc1de-ua/tree/master/UA",
    "download": "https://github.com/xen0c1de/xenoc1de-ua/archive/master.zip",
    "system": "dnd5e",
